@@ -1,5 +1,11 @@
 # SKCT Overlay Paint
 
+[![Platform](https://img.shields.io/badge/Platform-Windows_x64-0078D6)](https://github.com/controlguy-ys/SKCTOverlayPaint/releases/latest/download/SKCTOverlayPaint.exe)
+[![.NET](https://img.shields.io/badge/.NET-8.0_Native_Single--File-512BD4)](#빌드)
+[![Win32](https://img.shields.io/badge/Windowing-Non--Activating_Click--Through_Overlay-10A37F)](#사용법)
+
+Lightweight, non-activating **Windows desktop screen annotation overlay** built with **.NET 8**. Engineered with Win32 extended window styles so drawing, erasing, and resizing over an active browser window (e.g., Chrome during online visual reasoning/aptitude tests) **never steals keyboard/window focus** from the underlying application, with instant toggleable mouse click-through (`Pass-Through` mode).
+
 Chrome 등 현재 사용 중인 창 위에 그리는 Windows용 오버레이 그림판입니다. 모든 오버레이 창은 마우스로 눌러도 활성화되지 않도록 설정되어 있어, Chrome의 키보드 포커스를 유지합니다.
 
 **다운로드:** [Windows x64 실행 파일](https://github.com/controlguy-ys/SKCTOverlayPaint/releases/latest/download/SKCTOverlayPaint.exe)
